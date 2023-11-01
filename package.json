@@ -15,7 +15,7 @@
     ".gitignore",
     "app.json"
   ],
-  "repository": {
+  "repository": {cd Incognito npm install}
     "type": "git",
     "url": "git+https://github.com/amethystnetwork-dev/Incognito"
   },
